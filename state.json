@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-07-30T19:50:55.533686+00:00",
+  "last_run": "2026-07-30T19:53:15.939921+00:00",
   "seen": {
     "OpenRouter - New Models": [
       "aion-labs/aion-3.0-20260707",
@@ -30,6 +30,8 @@
       "openai/gpt-5.6-luna-pro-20260709",
       "openai/gpt-5.6-sol-20260709",
       "openai/gpt-5.6-sol-pro-20260709",
+      "openai/gpt-5.6-terra-20260709",
+      "openai/gpt-5.6-terra-pro-20260709",
       "openrouter/auto-beta",
       "openrouter/fusion",
       "poolside/laguna-s-2.1-20260720",
