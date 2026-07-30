@@ -1,10 +1,12 @@
 {
-  "last_run": "2026-07-30T19:05:58.235443+00:00",
+  "last_run": "2026-07-30T19:12:10.298079+00:00",
   "seen": {
     "OpenRouter - New Models": [
       "aion-labs/aion-3.0-20260707",
       "aion-labs/aion-3.0-mini-20260707",
       "anthropic/claude-5-fable-20260609",
+      "anthropic/claude-opus-5-20260723",
+      "anthropic/claude-opus-5-fast-20260723",
       "anthropic/claude-sonnet-5-20260630",
       "cohere/north-mini-code-20260617",
       "google/gemini-3-pro-image-20260528",
@@ -34,6 +36,7 @@
       "openrouter/fusion",
       "poolside/laguna-s-2.1-20260720",
       "poolside/laguna-xs-2.1-20260625",
+      "qwen/qwen3.7-flash-20260727",
       "qwen/qwen3.7-plus-20260602",
       "sakana/fugu-ultra-20260615",
       "tencent/hy3-20260706",
