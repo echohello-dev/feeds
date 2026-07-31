@@ -1,9 +1,10 @@
 {
-  "last_run": "2026-07-31T15:02:50.359240+00:00",
+  "last_run": "2026-07-31T16:57:56.290050+00:00",
   "seen": {
     "OpenRouter - New Models": [
       "aion-labs/aion-3.0-20260707",
       "aion-labs/aion-3.0-mini-20260707",
+      "anthropic/claude-4.8-opus-fast-20260528",
       "anthropic/claude-5-fable-20260609",
       "anthropic/claude-opus-5-20260723",
       "anthropic/claude-opus-5-fast-20260723",
@@ -40,8 +41,10 @@
       "qwen/qwen3.7-flash-20260727",
       "qwen/qwen3.7-plus-20260602",
       "sakana/fugu-ultra-20260615",
+      "stepfun/step-3.7-flash-20260528",
       "tencent/hy3-20260706",
       "thinkingmachines/inkling-20260715",
+      "thinkingmachines/inkling-small-20260730",
       "x-ai/grok-4.5-20260708",
       "z-ai/glm-5.2-20260616",
       "~anthropic/claude-fable-latest",
