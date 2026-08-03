@@ -10,7 +10,6 @@
       "anthropic/claude-opus-5-fast-20260723",
       "anthropic/claude-sonnet-5-20260630",
       "cohere/north-mini-code-20260617",
-      "deepseek/deepseek-v4-flash-20260731",
       "google/gemini-3-pro-image-20260528",
       "google/gemini-3.1-flash-image-20260528",
       "google/gemini-3.1-flash-lite-image-20260630",
@@ -48,7 +47,6 @@
       "x-ai/grok-4.5-20260708",
       "z-ai/glm-5.2-20260616",
       "~anthropic/claude-fable-latest",
-      "~deepseek/deepseek-v4-flash-latest",
       "~x-ai/grok-latest"
     ]
   }

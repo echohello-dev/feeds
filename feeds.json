@@ -10,6 +10,13 @@
     "max_items": 50,
     "history_cap": 5000,
     "description_limit": 1500,
-    "post_delay_seconds": 2
+    "post_delay_seconds": 2,
+    "author_name": "OpenRouter",
+    "author_url": "https://openrouter.ai/models",
+    "author_icon_url": "https://openrouter.ai/favicon.ico",
+    "footer_icon_url": "https://openrouter.ai/favicon.ico",
+    "fields": [
+      "published"
+    ]
   }
 ]
