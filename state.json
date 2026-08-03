@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-03T13:59:04.569327+00:00",
+  "last_run": "2026-08-03T16:33:32.125504+00:00",
   "seen": {
     "OpenRouter - New Models": [
       "aion-labs/aion-3.0-20260707",
@@ -40,6 +40,7 @@
       "poolside/laguna-xs-2.1-20260625",
       "qwen/qwen3.7-flash-20260727",
       "qwen/qwen3.7-plus-20260602",
+      "qwen/qwen3.8-max-20260803",
       "sakana/fugu-ultra-20260615",
       "stepfun/step-3.7-flash-20260528",
       "tencent/hy3-20260706",
