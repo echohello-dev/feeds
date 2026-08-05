@@ -4,7 +4,7 @@
     "url": "https://openrouter.ai/api/v1/models?use_rss=true",
     "webhook_secret": "DISCORD_WEBHOOK_OPENROUTER",
     "username": "OpenRouter",
-    "avatar_url": "https://openrouter.ai/favicon.ico",
+    "avatar_url": "https://openrouter.ai/favicon/glyph.png",
     "color": 6143855,
     "enabled": true,
     "max_items": 50,
@@ -13,8 +13,8 @@
     "post_delay_seconds": 2,
     "author_name": "OpenRouter",
     "author_url": "https://openrouter.ai/models",
-    "author_icon_url": "https://openrouter.ai/favicon.ico",
-    "footer_icon_url": "https://openrouter.ai/favicon.ico",
+    "author_icon_url": "https://openrouter.ai/favicon/glyph.png",
+    "footer_icon_url": "https://openrouter.ai/favicon/glyph.png",
     "fields": [
       "published"
     ]
