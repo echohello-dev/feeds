@@ -1,32 +1,6 @@
 {
   "last_run": "2026-08-09T02:03:15.659515+00:00",
   "seen": {
-    "Model Context Protocol Blog": [
-      "https://blog.modelcontextprotocol.io/posts/2025-07-29-prompts-for-automation/",
-      "https://blog.modelcontextprotocol.io/posts/2025-07-31-governance-for-mcp/",
-      "https://blog.modelcontextprotocol.io/posts/2025-09-05-php-sdk/",
-      "https://blog.modelcontextprotocol.io/posts/2025-09-08-mcp-registry-preview/",
-      "https://blog.modelcontextprotocol.io/posts/2025-09-26-mcp-next-version-update/",
-      "https://blog.modelcontextprotocol.io/posts/2025-11-03-using-server-instructions/",
-      "https://blog.modelcontextprotocol.io/posts/2025-11-20-adopting-mcpb/",
-      "https://blog.modelcontextprotocol.io/posts/2025-11-21-mcp-apps/",
-      "https://blog.modelcontextprotocol.io/posts/2025-11-25-first-mcp-anniversary/",
-      "https://blog.modelcontextprotocol.io/posts/2025-11-28-sep-process-update/",
-      "https://blog.modelcontextprotocol.io/posts/2025-12-09-mcp-joins-agentic-ai-foundation/",
-      "https://blog.modelcontextprotocol.io/posts/2025-12-19-mcp-transport-future/",
-      "https://blog.modelcontextprotocol.io/posts/2026-01-22-core-maintainer-update/",
-      "https://blog.modelcontextprotocol.io/posts/2026-01-26-mcp-apps/",
-      "https://blog.modelcontextprotocol.io/posts/2026-03-11-understanding-mcp-extensions/",
-      "https://blog.modelcontextprotocol.io/posts/2026-03-16-tool-annotations/",
-      "https://blog.modelcontextprotocol.io/posts/2026-04-08-maintainer-update/",
-      "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
-      "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
-      "https://blog.modelcontextprotocol.io/posts/2026-mcp-roadmap/",
-      "https://blog.modelcontextprotocol.io/posts/client_registration/",
-      "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
-      "https://blog.modelcontextprotocol.io/posts/sdk-betas-2026-07-28/",
-      "https://blog.modelcontextprotocol.io/posts/welcome-to-mcp-blog/"
-    ],
     "OpenRouter - New Models": [
       "aion-labs/aion-3.0-20260707",
       "aion-labs/aion-3.0-mini-20260707",
