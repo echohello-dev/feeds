@@ -18,3 +18,5 @@ jobs:
       state-path: state.json
     secrets:
       discord-webhook: ${{ secrets.DISCORD_WEBHOOK_OPENROUTER }}
+      DISCORD_WEBHOOK_OPENROUTER: ${{ secrets.DISCORD_WEBHOOK_OPENROUTER }}
+      DISCORD_WEBHOOK_MCP: ${{ secrets.DISCORD_WEBHOOK_MCP }}
