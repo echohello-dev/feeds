@@ -23,6 +23,7 @@
     "name": "Model Context Protocol Blog",
     "url": "https://blog.modelcontextprotocol.io/index.xml",
     "webhook_secret": "DISCORD_WEBHOOK_MCP",
+    "oldest_first": true,
     "username": "MCP Blog",
     "avatar_url": "https://blog.modelcontextprotocol.io/og-image.png",
     "color": 9139370,
