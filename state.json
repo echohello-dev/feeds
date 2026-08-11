@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-11T11:58:29.737658+00:00",
+  "last_run": "2026-08-11T13:25:23.937326+00:00",
   "seen": {
     "Model Context Protocol Blog": [
       "https://blog.modelcontextprotocol.io/posts/2025-07-29-prompts-for-automation/",
@@ -57,6 +57,7 @@
       "nex-agi/nex-n2-pro",
       "nvidia/nemotron-3-ultra-550b-a55b-20260604",
       "nvidia/nemotron-3.5-content-safety-20260604",
+      "nvidia/nemotron-3.5-lightning-20260807",
       "openai/gpt-5.6-luna-20260709",
       "openai/gpt-5.6-luna-pro-20260709",
       "openai/gpt-5.6-sol-20260709",
