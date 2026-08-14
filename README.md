@@ -34,8 +34,10 @@ gh secret set DISCORD_WEBHOOK_OPENROUTER --repo echohello-dev/feeds
 Then trigger the workflow manually the first time to seed `state.json`:
 
 ```
-gh workflow run rss.yml --repo echohello-dev/feeds
+mise run trigger
 ```
+
+Local commands go through mise (`mise tasks`). `mise run seed` marks current items seen without posting.
 
 ## Adding a new feed
 

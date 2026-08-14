@@ -1,0 +1,20 @@
+[tasks.default]
+description = "List available tasks"
+alias = "h"
+run = ["mise tasks"]
+
+[tasks.seed]
+description = "Mark current items seen without posting"
+run = 'mise --cd ../feedhub run seed -- "$PWD/feeds.json" "$PWD/state.json"'
+
+[tasks.poll]
+description = "Poll feeds locally (posts if webhook env is set)"
+run = 'mise --cd ../feedhub run poll -- "$PWD/feeds.json" "$PWD/state.json"'
+
+[tasks.runs]
+description = "List recent RSS workflow runs"
+run = "gh run list --repo echohello-dev/feeds --limit 5"
+
+[tasks.trigger]
+description = "Dispatch the RSS workflow"
+run = "gh workflow run rss.yml --repo echohello-dev/feeds"
