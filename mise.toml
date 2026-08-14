@@ -5,11 +5,19 @@ run = ["mise tasks"]
 
 [tasks.seed]
 description = "Mark current items seen without posting"
-run = 'mise --cd ../feedhub run seed -- "$PWD/feeds.json" "$PWD/state.json"'
+run = '''
+export FEEDHUB_FEEDS="$PWD/feeds.json"
+export FEEDHUB_STATE="$PWD/state.json"
+mise --cd ../feedhub run seed
+'''
 
 [tasks.poll]
 description = "Poll feeds locally (posts if webhook env is set)"
-run = 'mise --cd ../feedhub run poll -- "$PWD/feeds.json" "$PWD/state.json"'
+run = '''
+export FEEDHUB_FEEDS="$PWD/feeds.json"
+export FEEDHUB_STATE="$PWD/state.json"
+mise --cd ../feedhub run poll
+'''
 
 [tasks.runs]
 description = "List recent RSS workflow runs"
