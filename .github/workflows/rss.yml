@@ -2,9 +2,8 @@ name: RSS to Discord (via feedhub)
 
 on:
   schedule:
-    # Every 15 minutes. OpenRouter doesn't push minute-scale events.
-    # For sub-5-min cadence, see https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#schedule
-    - cron: "*/15 * * * *"
+    # Daily. OpenRouter model drops and the MCP blog aren't minute-scale.
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -12,11 +11,14 @@ permissions:
 
 jobs:
   poll:
-    uses: echohello-dev/feedhub/.github/workflows/rss.yml@main
-    with:
-      feeds-path: feeds.json
-      state-path: state.json
-    secrets:
-      discord-webhook: ${{ secrets.DISCORD_WEBHOOK_OPENROUTER }}
+    runs-on: ubuntu-latest
+    env:
+      DISCORD_WEBHOOK_DEFAULT: ${{ secrets.DISCORD_WEBHOOK_OPENROUTER }}
       DISCORD_WEBHOOK_OPENROUTER: ${{ secrets.DISCORD_WEBHOOK_OPENROUTER }}
       DISCORD_WEBHOOK_MCP: ${{ secrets.DISCORD_WEBHOOK_MCP }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: echohello-dev/feedhub@main
+        with:
+          feeds-path: feeds.json
+          state-path: state.json

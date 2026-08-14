@@ -12,13 +12,13 @@ See [`feeds.json`](feeds.json). Currently:
 
 ## How it runs
 
-`.github/workflows/rss.yml` calls the reusable workflow in `echohello-dev/feedhub` every 15 minutes. The worker diffs the feed against `state.json`, posts new items, commits the updated state.
+`.github/workflows/rss.yml` calls the [feedhub composite action](https://github.com/echohello-dev/feedhub) daily. The worker diffs the feed against `state.json`, posts new items, commits the updated state.
 
 ```mermaid
 flowchart LR
-  cron["cron: */15"] --> act["GitHub Actions"]
-  act -->|"uses: feedhub/.github/workflows/rss.yml@main"| wkf["Reusable workflow"]
-  wkf --> py["python rss.py"]
+  cron["cron: 0 0 * * *"] --> act["GitHub Actions"]
+  act -->|"uses: echohello-dev/feedhub@main"| action["Composite action"]
+  action --> py["python rss.py"]
   py -->|"posts to"| dc["Discord webhook"]
   py -->|"commits"| st["state.json"]
 ```
@@ -40,13 +40,14 @@ gh workflow run rss.yml --repo echohello-dev/feeds
 ## Adding a new feed
 
 1. Add an entry to `feeds.json` (see [the template's examples](https://github.com/echohello-dev/feedhub/blob/main/examples/feeds.example.json) for the schema).
-2. Add the corresponding webhook secret (if it's a per-feed webhook) — `gh secret set DISCORD_WEBHOOK_<NAME> --repo echohello-dev/feeds`.
-3. Push. Next workflow run picks it up.
+2. Add the corresponding webhook secret — `gh secret set DISCORD_WEBHOOK_<NAME> --repo echohello-dev/feeds`.
+3. Add a matching job `env` line in `.github/workflows/rss.yml`.
+4. Push. Next workflow run picks it up.
 
 ## Tuning cadence
 
-Edit the cron in `.github/workflows/rss.yml`. `*/15` (every 15 min) is fine for most feeds. `*/5` works on public repos (free Actions minutes). Anything sub-5-min breaks the GitHub Actions floor.
+Edit the cron in `.github/workflows/rss.yml`. Daily (`0 0 * * *`) is the default. Hourly or `*/15` if you want faster; `*/5` works on public repos (free Actions minutes). Anything sub-5-min breaks the GitHub Actions floor.
 
-## Pinning the template
+## Pinning the action
 
-`.github/workflows/rss.yml` references `echohello-dev/feedhub/.github/workflows/rss.yml@main`. For production, replace `@main` with a tag or commit SHA so feedhub updates don't break this consumer silently.
+`.github/workflows/rss.yml` references `echohello-dev/feedhub@main`. For production, replace `@main` with a tag or commit SHA so feedhub updates don't break this consumer silently.
