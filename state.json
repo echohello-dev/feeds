@@ -1,6 +1,25 @@
 {
-  "last_run": "2026-08-22T01:12:14.476957+00:00",
+  "last_run": "2026-08-22T11:46:59.419009+00:00",
   "seen": {
+    "Johnny Huynh Blog": [
+      "https://johnnyhuy.com/blog/37000-lines-of-slop",
+      "https://johnnyhuy.com/blog/ai-cli-battles",
+      "https://johnnyhuy.com/blog/ai-is-degrading-software-engineering",
+      "https://johnnyhuy.com/blog/ai-product-engineering-lego-blocks",
+      "https://johnnyhuy.com/blog/anthropic-study-ai-skill-formation",
+      "https://johnnyhuy.com/blog/big-tech-engineers-need-big-egos",
+      "https://johnnyhuy.com/blog/building-a-competitive-advantage",
+      "https://johnnyhuy.com/blog/career-growth-stagnant-environment",
+      "https://johnnyhuy.com/blog/closing-the-feedback-loop",
+      "https://johnnyhuy.com/blog/dhhs-standards-didnt-change",
+      "https://johnnyhuy.com/blog/how-to-rest-so-you-actually-recover",
+      "https://johnnyhuy.com/blog/just-talk-to-it",
+      "https://johnnyhuy.com/blog/reigniting-the-flame",
+      "https://johnnyhuy.com/blog/selecting-great-engineers-beyond-technical-skills",
+      "https://johnnyhuy.com/blog/shipping-projects-at-big-tech",
+      "https://johnnyhuy.com/blog/software-engineering-at-the-tipping-point",
+      "https://johnnyhuy.com/blog/the-loopy-era-of-ai"
+    ],
     "Model Context Protocol Blog": [
       "https://blog.modelcontextprotocol.io/posts/2025-07-29-prompts-for-automation/",
       "https://blog.modelcontextprotocol.io/posts/2025-07-31-governance-for-mcp/",

@@ -16,6 +16,7 @@ jobs:
       DISCORD_WEBHOOK_DEFAULT: ${{ secrets.DISCORD_WEBHOOK_OPENROUTER }}
       DISCORD_WEBHOOK_OPENROUTER: ${{ secrets.DISCORD_WEBHOOK_OPENROUTER }}
       DISCORD_WEBHOOK_MCP: ${{ secrets.DISCORD_WEBHOOK_MCP }}
+      DISCORD_WEBHOOK_JOHNNYHUY: ${{ secrets.DISCORD_WEBHOOK_JOHNNYHUY }}
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       - uses: echohello-dev/feedhub@main
