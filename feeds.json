@@ -60,6 +60,12 @@
     "footer_icon_url": "https://johnnyhuy.com/favicon/web-app-manifest-512x512.png",
     "fields": [
       "published"
+    ],
+    "extra_fields": [
+      {
+        "name": "Read more",
+        "value": "[Read on johnnyhuy.com →]({link})"
+      }
     ]
   }
 ]
