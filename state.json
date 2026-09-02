@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-01T03:49:49.211508+00:00",
+  "last_run": "2026-09-02T03:09:30.739508+00:00",
   "seen": {
     "Johnny Huynh Blog": [
       "https://johnnyhuy.com/blog/37000-lines-of-slop",
@@ -54,6 +54,7 @@
       "aion-labs/aion-3.0-mini-20260707",
       "anthropic/claude-4.8-opus-fast-20260528",
       "anthropic/claude-5-fable-20260609",
+      "anthropic/claude-fable-5.1-20260831",
       "anthropic/claude-opus-5-20260723",
       "anthropic/claude-opus-5-fast-20260723",
       "anthropic/claude-sonnet-5-20260630",
@@ -71,6 +72,7 @@
       "google/gemini-3.6-flash-20260721",
       "google/gemini-3.7-flash-20260813",
       "ibm-granite/granite-4.2-8b-20260831",
+      "inception/mercury-2.5-preview-20260831",
       "inclusionai/ling-3.0-flash-20260723",
       "inclusionai/ling-3.0-flash-fin-20260827",
       "inclusionai/ling-3.0-tiny-20260806",
@@ -126,6 +128,7 @@
       "~anthropic/claude-fable-latest",
       "~deepseek/deepseek-v4-flash-latest",
       "~x-ai/grok-latest",
+      "~z-ai/glm-flash-latest",
       "~z-ai/glm-latest"
     ]
   }
