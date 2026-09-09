@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-08T03:18:58.932790+00:00",
+  "last_run": "2026-09-09T03:22:10.407588+00:00",
   "seen": {
     "Johnny Huynh Blog": [
       "https://johnnyhuy.com/blog/37000-lines-of-slop",
@@ -73,6 +73,7 @@
       "google/gemini-3.7-flash-20260813",
       "google/gemini-3.8-flash-20260902",
       "ibm-granite/granite-4.2-8b-20260831",
+      "inception/mercury-2.5-20260908",
       "inception/mercury-2.5-preview-20260831",
       "inclusionai/ling-3.0-flash-20260723",
       "inclusionai/ling-3.0-flash-fin-20260827",
@@ -93,6 +94,8 @@
       "moonshotai/kimi-k3-20260715",
       "nex-agi/nex-n2-mini",
       "nex-agi/nex-n2-pro",
+      "nex-agi/nex-n2.5-mini-20260908",
+      "nex-agi/nex-n2.5-pro-20260907",
       "nvidia/nemotron-3-ultra-550b-a55b-20260604",
       "nvidia/nemotron-3.5-content-safety-20260604",
       "nvidia/nemotron-3.5-lightning-20260807",
