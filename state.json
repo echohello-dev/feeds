@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-10T03:20:47.735393+00:00",
+  "last_run": "2026-09-11T03:16:58.819500+00:00",
   "seen": {
     "Johnny Huynh Blog": [
       "https://johnnyhuy.com/blog/37000-lines-of-slop",
@@ -64,6 +64,7 @@
       "deepseek/deepseek-v4-flash-20260731",
       "deepseek/deepseek-v4-flash-vision-exp-20260821",
       "deepseek/deepseek-v4-pro-20260813",
+      "deepseek/deepseek-v4.1-flash-20260910",
       "dots-studio/dots-3-note-preview-20260813",
       "google/gemini-3-pro-image-20260528",
       "google/gemini-3.1-flash-image-20260528",
@@ -78,6 +79,7 @@
       "inclusionai/ling-3.0-flash-20260723",
       "inclusionai/ling-3.0-flash-fin-20260827",
       "inclusionai/ling-3.0-flash-sante-20260904",
+      "inclusionai/ling-3.0-flash-vl-20260910",
       "inclusionai/ling-3.0-tiny-20260806",
       "kwaipilot/kat-coder-air-v2.5-20260710",
       "kwaipilot/kat-coder-pro-v2.5-20260710",
