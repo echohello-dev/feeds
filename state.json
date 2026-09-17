@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-16T03:36:12.439367+00:00",
+  "last_run": "2026-09-17T03:41:49.853210+00:00",
   "seen": {
     "Johnny Huynh Blog": [
       "https://johnnyhuy.com/blog/37000-lines-of-slop",
@@ -127,6 +127,7 @@
       "sakana/fugu-ultra-v2-20260911",
       "sakana/namazu-20260811",
       "stealth/ox-alpha",
+      "stealth/union-alpha",
       "stepfun/step-3.7-flash-20260528",
       "tencent/hy-mt2-1.8b-20260521",
       "tencent/hy-mt2-30b-a3b-20260521",
