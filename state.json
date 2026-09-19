@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-18T03:27:19.948975+00:00",
+  "last_run": "2026-09-19T03:23:44.623773+00:00",
   "seen": {
     "Johnny Huynh Blog": [
       "https://johnnyhuy.com/blog/37000-lines-of-slop",
@@ -115,6 +115,7 @@
       "openrouter/fusion",
       "poolside/laguna-s-2.1-20260720",
       "poolside/laguna-xs-2.1-20260625",
+      "prism-ml/ternary-bonsai-2-27b-20260918",
       "qwen/qwen3.7-flash-20260727",
       "qwen/qwen3.7-plus-20260602",
       "qwen/qwen3.8-2.4t-a95b-20260812",
