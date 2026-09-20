@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-19T03:23:44.623773+00:00",
+  "last_run": "2026-09-20T03:40:34.358035+00:00",
   "seen": {
     "Johnny Huynh Blog": [
       "https://johnnyhuy.com/blog/37000-lines-of-slop",
@@ -144,6 +144,7 @@
       "z-ai/glm-5.2-20260616",
       "z-ai/glm-5.3-20260816",
       "z-ai/glm-5.3-flash-20260826",
+      "z-ai/glm-5.3-flashx-20260918",
       "~anthropic/claude-fable-latest",
       "~deepseek/deepseek-flash-latest",
       "~deepseek/deepseek-pro-latest",
