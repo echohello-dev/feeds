@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-21T03:35:48.717411+00:00",
+  "last_run": "2026-09-22T03:34:47.106311+00:00",
   "seen": {
     "Johnny Huynh Blog": [
       "https://johnnyhuy.com/blog/37000-lines-of-slop",
@@ -141,6 +141,10 @@
       "upstage/solar-pro4-20260810",
       "x-ai/grok-4.5-20260708",
       "x-ai/grok-4.6-20260810",
+      "x-ai/grok-4.7-20260916",
+      "xiaomi/mimo-v2.6-flash-20260921",
+      "xiaomi/mimo-v2.6-pro-20260921",
+      "xiaomi/mimo-v2.6-pro-ultraspeed-20260921",
       "z-ai/glm-5.2-20260616",
       "z-ai/glm-5.3-20260816",
       "z-ai/glm-5.3-flash-20260826",
