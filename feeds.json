@@ -44,7 +44,7 @@
   {
     "name": "Johnny Huynh Blog",
     "url": "https://johnnyhuy.com/feed.xml",
-    "webhook_secret": "DISCORD_WEBHOOK_JOHNNYHUY",
+    "webhook_secret": "DISCORD_WEBHOOK_BLOGS",
     "oldest_first": true,
     "username": "Johnny Huynh",
     "avatar_url": "https://johnnyhuy.com/favicon/web-app-manifest-512x512.png",
@@ -71,7 +71,7 @@
   {
     "name": "Free Sauce - videos and articles",
     "url": "https://www.frees.au/feed.xml",
-    "webhook_secret": "DISCORD_WEBHOOK_JOHNNYHUY",
+    "webhook_secret": "DISCORD_WEBHOOK_BLOGS",
     "oldest_first": true,
     "username": "Free Sauce",
     "avatar_url": "https://www.frees.au/themes/custom/fstheme/logo.png",
