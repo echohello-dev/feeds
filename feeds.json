@@ -67,5 +67,27 @@
         "value": "[Read on johnnyhuy.com →]({link})"
       }
     ]
+  },
+  {
+    "name": "Free Sauce - videos and articles",
+    "url": "https://www.frees.au/feed.xml",
+    "webhook_secret": "DISCORD_WEBHOOK_JOHNNYHUY",
+    "oldest_first": true,
+    "username": "Free Sauce",
+    "avatar_url": "https://www.frees.au/themes/custom/fstheme/logo.png",
+    "color": 10040164,
+    "enabled": true,
+    "max_items": 50,
+    "history_cap": 5000,
+    "description_limit": 1500,
+    "post_delay_seconds": 2,
+    "author_name": "Si Hobbs",
+    "author_url": "https://www.frees.au/",
+    "author_icon_url": "https://www.frees.au/themes/custom/fstheme/logo.png",
+    "footer_icon_url": "https://www.frees.au/themes/custom/fstheme/logo.png",
+    "fields": [
+      "author",
+      "published"
+    ]
   }
 ]
