@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-24T03:25:12.481826+00:00",
+  "last_run": "2026-09-25T03:42:18.683307+00:00",
   "seen": {
     "Free Sauce - videos and articles": [
       "1d43e96d-30ee-4e5d-8140-b2c38f9c989e",
@@ -93,6 +93,7 @@
       "deepseek/deepseek-v4-pro-20260813",
       "deepseek/deepseek-v4.1-flash-20260910",
       "dots-studio/dots-3-note-preview-20260813",
+      "fireworks/ember-1-20260923",
       "google/gemini-3-pro-image-20260528",
       "google/gemini-3.1-flash-image-20260528",
       "google/gemini-3.1-flash-lite-image-20260630",
