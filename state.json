@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-29T04:31:49.618144+00:00",
+  "last_run": "2026-09-30T04:15:18.903042+00:00",
   "seen": {
     "Free Sauce - videos and articles": [
       "1d43e96d-30ee-4e5d-8140-b2c38f9c989e",
@@ -144,6 +144,8 @@
       "openai/gpt-6-luna-pro-20260922",
       "openai/gpt-6-sol-20260922",
       "openai/gpt-6-sol-pro-20260922",
+      "openai/gpt-6.1-sol-20260929",
+      "openai/gpt-6.1-sol-pro-20260929",
       "openrouter/auto-beta",
       "openrouter/fusion",
       "perceptron/perceptron-mk1.5-20260925",
