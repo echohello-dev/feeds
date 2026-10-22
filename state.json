@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-21T03:31:56.120297+00:00",
+  "last_run": "2026-10-22T03:31:01.413785+00:00",
   "seen": {
     "Free Sauce - videos and articles": [
       "1d43e96d-30ee-4e5d-8140-b2c38f9c989e",
@@ -178,6 +178,7 @@
       "qwen/qwen3.8-max-20260902",
       "qwen/qwen3.8-max-prime-20260923",
       "qwen/qwen3.8-omni-flash-20260918",
+      "recursive/flint-v1.0-20261021",
       "reflection/beam-1.0-501b-a23b-20261016",
       "sakana/fugu-max-20260911",
       "sakana/fugu-ultra-20260615",
