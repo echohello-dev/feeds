@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-28T04:17:22.212790+00:00",
+  "last_run": "2026-10-29T04:37:46.330374+00:00",
   "seen": {
     "Free Sauce - videos and articles": [
       "1d43e96d-30ee-4e5d-8140-b2c38f9c989e",
@@ -168,6 +168,7 @@
       "openai/gpt-6.1-terra-pro-20261026",
       "openrouter/auto-beta",
       "openrouter/fusion",
+      "particle-ai/particle-1-20261027",
       "perceptron/perceptron-mk1.5-20260925",
       "poolside/laguna-s-2.1-20260720",
       "poolside/laguna-xs-2.1-20260625",
