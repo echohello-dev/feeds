@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-10T06:08:39.822610+00:00",
+  "last_run": "2026-11-11T04:55:34.742842+00:00",
   "seen": {
     "Free Sauce - videos and articles": [
       "1d43e96d-30ee-4e5d-8140-b2c38f9c989e",
@@ -89,6 +89,8 @@
       "anthropic/claude-sonnet-5-20260630",
       "anthropic/claude-sonnet-5.5-20260928",
       "apodex/apodex-1.1-mini-20261001",
+      "baidu/ernie-5.5-flash-preview-20261110",
+      "baidu/ernie-light-dt-1.0-intl-20261110",
       "bytedance-seed/seed-2-1-turbo-20260810",
       "bytedance-seed/seed-2.0-code-20260730",
       "cohere/command-a-plus-05-2026",
@@ -109,6 +111,7 @@
       "google/gemini-3.7-flash-20260813",
       "google/gemini-3.8-flash-20260902",
       "google/gemini-4-argon-20261013",
+      "google/gemini-4-carbon-20261110",
       "google/gemini-nano-banana-2.1-20261006",
       "google/gemini-omni-1.1-flash-20260911",
       "google/gemini-omni-1.2-flash-20261105",
@@ -124,6 +127,7 @@
       "inclusionai/ling-3.1-flash-20261002",
       "inference-net/schematron-v2-small-20260902",
       "inference-net/schematron-v2-turbo-20260902",
+      "kt/midm-k-3.0-pro",
       "kwaipilot/kat-coder-air-v2.5-20260710",
       "kwaipilot/kat-coder-pro-v2.5-20260710",
       "liquid/lfm-2.5-2.6b-20260811",
@@ -147,6 +151,7 @@
       "moonshotai/kimi-k2.7-code-20260612",
       "moonshotai/kimi-k3-20260715",
       "moonshotai/kimi-k3.1-pro-20261023",
+      "motif-technologies/motif-3",
       "nex-agi/nex-n2-mini",
       "nex-agi/nex-n2-pro",
       "nex-agi/nex-n2.5-mini-20260908",
