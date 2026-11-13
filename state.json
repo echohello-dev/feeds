@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-12T05:57:28.076329+00:00",
+  "last_run": "2026-11-13T05:20:35.473859+00:00",
   "seen": {
     "Free Sauce - videos and articles": [
       "1d43e96d-30ee-4e5d-8140-b2c38f9c989e",
@@ -114,6 +114,7 @@
       "google/gemini-3.8-flash-20260902",
       "google/gemini-4-argon-20261013",
       "google/gemini-4-carbon-20261110",
+      "google/gemini-4-hydrogen-20261112",
       "google/gemini-nano-banana-2.1-20261006",
       "google/gemini-omni-1.1-flash-20260911",
       "google/gemini-omni-1.2-flash-20261105",
