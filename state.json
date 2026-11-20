@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-19T06:08:54.666118+00:00",
+  "last_run": "2026-11-20T05:55:39.815171+00:00",
   "seen": {
     "Free Sauce - videos and articles": [
       "1d43e96d-30ee-4e5d-8140-b2c38f9c989e",
@@ -151,6 +151,7 @@
       "minimax/minimax-m3-20260531",
       "minimax/minimax-m3.1-flash-20261019",
       "mistralai/mistral-large-4-0-20261006",
+      "mistralai/pixtral-large-2502",
       "moondream/moondream3-preview-20261013",
       "moondream/moondream3.1-9b-a2b-20261013",
       "moonshotai/kimi-k2.7-code-20260612",
