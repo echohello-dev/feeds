@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-20T05:55:39.815171+00:00",
+  "last_run": "2026-11-21T05:50:23.905132+00:00",
   "seen": {
     "Free Sauce - videos and articles": [
       "1d43e96d-30ee-4e5d-8140-b2c38f9c989e",
@@ -208,6 +208,7 @@
       "qwen/qwen3.8-max-prime-20260923",
       "qwen/qwen3.8-omni-flash-20260918",
       "qwen/qwen4-max-20261115",
+      "radixark/daisyrose-27b-20261120",
       "recursive/flint-v1.0-20261021",
       "reflection/beam-1.0-501b-a23b-20261016",
       "ricursiveai/ripple-65b-preview-20261104",
@@ -230,6 +231,7 @@
       "tencent/hy4-20261104",
       "tencent/hy4-flash-20261116",
       "tencent/hy4-preview-20260827",
+      "thinkingmachines/inkling-2-mini-20261120",
       "thinkingmachines/inkling-2-small-20261107",
       "thinkingmachines/inkling-20260715",
       "thinkingmachines/inkling-small-20260730",
